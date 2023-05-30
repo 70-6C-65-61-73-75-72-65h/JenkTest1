@@ -6,7 +6,7 @@
     }
   }
     
-  tools {nodejs "node"}
+  tools {nodejs "NodeJs"}
     
   stages {
         
